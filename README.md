@@ -28,7 +28,7 @@
 ### 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/vivek-deepashree-ravi
-- Email: vivek.deeashreeravi@gmail.com
+- Email: vivek.deepashreeravi@gmail.com
 - Protoflio: https://vivek-deepashree-ravi.github.io/VivekDeepashreeRavi/
 
 
