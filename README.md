@@ -2,7 +2,7 @@
 
 # Vivek DR
 
-## Robotic Engineer | ROS Developer
+## Senior Robotic Software Engineer | ROS Developer
 
 🤖 Welcome to my GitHub profile! I am passionate about robotics, specializing in the development of autonomous systems, path planning, and navigation for both mobile robots and robotic arms using the Robot Operating System (ROS).
 
@@ -29,6 +29,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/vivek-deepashree-ravi
 - Email: vivek.deeashreeravi@gmail.com
+- Protoflio: https://vivek-deepashree-ravi.github.io/VivekDeepashreeRavi/
 
 
 
