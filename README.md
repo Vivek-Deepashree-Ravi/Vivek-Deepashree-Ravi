@@ -1,70 +1,165 @@
-### Hi there 👋
+# Hi there, I'm Vivek DR 👋
 
-# Vivek DR
+## Senior Robotics Software Engineer | ROS2 Developer | Autonomous Systems & AI
 
-## Senior Robotic Software Engineer | ROS Developer
+Robotics Software Engineer focused on building **autonomous robots, robotic manipulation systems, AI-powered assistants, and edge robotics platforms**.
 
-🤖 Welcome to my GitHub profile! I am passionate about robotics, specializing in the development of autonomous systems, path planning, and navigation for both mobile robots and robotic arms using the Robot Operating System (ROS).
+I work across the full robotics stack — **ROS/ROS2, navigation, motion planning, perception, embedded systems, NVIDIA Jetson, Docker, AI integration, and real-world robot deployment**.
 
-### 🔧 Technical Skills
+---
 
-- **Robot Operating System (ROS):** Proficient in designing and implementing ROS-based applications for mobile robots and robotic arms.
-- **Path Planning:** Expertise in designing algorithms for efficient and collision-free path planning in dynamic environments.
-- **Navigation:** Experience in designing and implementing navigation systems for mobile robots, ensuring reliable and robust real-time performance.
-- **Simulations:** Skilled in using simulation tools such as Gazebo and RViz to validate and test robotic systems before deployment.
-- **Robot Perception:** Familiar with integrating sensors like LiDAR, cameras, and IMUs for perception and environment understanding.
+## 🚀 Current Focus
 
-### 🤖 Project Highlights
+### 🤖 Misa AI
+Building an AI assistant platform that connects **LLMs, real-time information, robotics, voice, vision, and physical devices**.
 
-#### Mobile Robot Path Planning
-- Implemented a global path planning algorithm using A*, DWA planner and RRT* considering dynamic obstacles and optimizing for the shortest path.
-- Integrated the path planner with a local navigation system, ensuring smooth and collision-free movement in real-world scenarios.
+- Gemini / LLM integration
+- Tool calling and agent workflows
+- Voice and vision interfaces
+- ROS2 integration
+- Raspberry Pi + ESP32
+- Smart device control
+- Context-aware assistance
 
-#### Robotic Arm Motion Planning
-- Developed a motion planning system for a robotic arm with 6DOF using Moveit and tesseract motion planner, enabling precise and efficient manipulation tasks.
-- Validated the motion planner through simulation and successfully deployed it on a physical robotic arm.
+### 🦾 UR7e Robotic Manipulation
+Working with the **Universal Robots UR7e** for industrial robotic manipulation and motion planning.
 
+- ROS2 integration
+- MoveIt / MoveIt 2
+- Tesseract Motion Planning
+- 6-DOF trajectory planning
+- Collision checking
+- Manipulation workflows
+- Simulation and real robot deployment
 
-### 📫 Contact Me
+### ⚡ NVIDIA Jetson Orin
+Developing robotics and AI workloads on **NVIDIA Jetson Orin** for edge computing applications.
 
-- LinkedIn: https://www.linkedin.com/in/vivek-deepashree-ravi
-- Email: vivek.deepashreeravi@gmail.com
-- Protoflio: https://vivek-deepashree-ravi.github.io/VivekDeepashreeRavi/
+- ROS2 deployment
+- Computer vision
+- AI inference
+- Camera integration
+- Edge robotics
+- GPU-accelerated workloads
+- Containerized robotics applications
 
+---
 
+## 🔧 Technical Skills
 
-Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's push the boundaries of robotics together! 🚀
+**Robotics**
+- ROS / ROS2
+- Mobile Robots
+- Robotic Manipulators
+- Autonomous Systems
+- Robot System Integration
 
+**Navigation & Planning**
+- Nav2
+- A*
+- Dijkstra
+- DWA
+- RRT / RRT*
+- Global & Local Planning
+- Obstacle Avoidance
 
-<!--
-**Vivek-Deepashree-Ravi/Vivek-Deepashree-Ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manipulation**
+- UR7e
+- MoveIt / MoveIt 2
+- Tesseract
+- 6-DOF Motion Planning
+- Collision Checking
+- Trajectory Planning
 
-Here are some ideas to get you started:
+**Perception**
+- LiDAR
+- Cameras
+- IMU
+- Computer Vision
+- Sensor Integration
+- Environment Perception
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
-### 🚀 Open Source Contributions
+**Edge & Embedded**
+- NVIDIA Jetson Orin
+- Raspberry Pi
+- ESP32
+- Motor Controllers
+- GPIO
+- Camera / Mic / Speaker Integration
 
-- [Link to ROS Package 1]: Brief description and impact.
-- [Link to ROS Package 2]: Brief description and impact.
+**AI**
+- Gemini
+- LLM Integration
+- AI Agents
+- Tool Calling
+- Vision-Language Models
+- Conversational AI
+- Multi-Agent Systems
 
+**Development & DevOps**
+- Python
+- C++
+- Linux / Ubuntu
+- Git / GitHub
+- Docker
+- Docker Compose
+- REST APIs
+- PyQt
+- JSON
 
-### 🙏 Acknowledgments
+**Simulation**
+- Gazebo
+- RViz
+- MoveIt
+- ROS2 Simulation
 
-- Special thanks to [any collaborators, mentors, or contributors], who have been instrumental in the success of my projects.
-### 🌐 Website/Blog
+---
 
-- [Optional: Link to your personal website or blog for more detailed information.]
+## 🛠️ Project Highlights
 
-### 📚 Education
+### 🚗 Autonomous Mobile Robot Navigation
+Developed ROS-based autonomous navigation systems using **A*, DWA, RRT*** and local/global planners for collision-free navigation in dynamic environments.
 
-- **[Your Degree], [Your University]** (Year Graduated)
-- [Any relevant certifications or courses]
--->
+### 🦾 UR7e Motion Planning
+Developed and integrated motion-planning pipelines for the **UR7e robotic arm** using **MoveIt and Tesseract**, including collision-aware trajectory planning and real robot execution.
+
+### ⚡ Jetson Orin Robotics
+Worked with **NVIDIA Jetson Orin** for ROS2, perception, vision, and AI workloads at the edge.
+
+### 🤖 AI + Robotics
+Exploring AI-driven robotics where LLMs can interact with **ROS2, sensors, cameras, devices, and robotic systems** through natural-language commands.
+
+### 🏠 ROS2 + ESP32
+Developing communication between ROS2 systems and ESP32 devices for controlling motors, lights, sensors, and embedded hardware.
+
+---
+
+## 🎯 Interests
+
+- Autonomous Robotics
+- Robotic Manipulation
+- ROS2
+- Embodied AI
+- AI + Robotics
+- Industrial Robotics
+- Edge AI
+- Computer Vision
+- Multi-Agent Systems
+- Human-Robot Interaction
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:**  
+https://www.linkedin.com/in/vivek-deepashree-ravi
+
+**Email:**  
+vivek.deepashreeravi@gmail.com
+
+**Portfolio:**  
+https://vivek-deepashree-ravi.github.io/VivekDeepashreeRavi/
+
+---
+
+> Building intelligent robotic systems by combining **ROS2, AI, perception, planning, and real-world hardware.** 🚀🤖
